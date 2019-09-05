@@ -4,6 +4,9 @@ public class CalculatorApp {
 
     public static void main(String[] args) {
 
+	
+	     System.out.println("Welcome to Calculator App");
+
     	double num1, num2, output;
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter first number:");
